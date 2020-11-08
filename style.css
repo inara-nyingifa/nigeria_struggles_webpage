@@ -179,7 +179,7 @@ be hidden*/
 .hero{
 	width: 100%;
 	height: 100vh;
-	background: url("head.jpg") center no-repeat;
+	background: url("assets/images/head.jpg") center no-repeat;
 	background-size: cover;
 	display: flex;
 	align-items: center;
@@ -360,7 +360,7 @@ be hidden*/
 	background-color: var(--main-font-color-dark);
 }
 .tasteful-recipes{
-	background: url("sarss.jpg") center no-repeat;
+	background: url("assets/images/sarss.jpg") center no-repeat;
 	background-size: cover;
 }
 .between{
@@ -380,7 +380,7 @@ be hidden*/
 }
 /* timeline section*/
 .perfect-blend{
-	background: url("kk.jpg") center no-repeat;
+	background: url("assets/images/kk.jpg") center no-repeat;
 	background-size: cover;
 }
 /* below is the footer*/
